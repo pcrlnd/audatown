@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>@Variables_substituted_by_CMAKE_on_installation@
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+
+    <!-- Audatown project files -->
+
+    <mime-type type="application/x-audacity">
+        <comment>Audatown Project File</comment>
+        <glob pattern="*.aup4"/>
+        <icon name="application-x-audacity@MUSE_APP_INSTALL_SUFFIX@"/>
+    </mime-type>
+</mime-info>

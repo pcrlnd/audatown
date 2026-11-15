@@ -1,0 +1,53 @@
+<svg width="512" height="513" viewBox="0 0 512 513" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M439.864 502.198H72.1367V10.5811H337.513L340.501 13.6738L437.017 113.534L439.864 116.48V502.198Z" fill="#ffffff" stroke="#c9d3f5" stroke-width="20.2729"/>
+<defs>
+    <linearGradient id="band" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3f6bff"/>
+      <stop offset="1" stop-color="#1d3fd6"/>
+    </linearGradient>
+    <linearGradient id="cup" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3561ff"/>
+      <stop offset="1" stop-color="#1834c2"/>
+    </linearGradient>
+    <linearGradient id="wave" gradientUnits="userSpaceOnUse" x1="0" y1="420" x2="0" y2="960">
+      <stop offset="0" stop-color="#ffd23f"/>
+      <stop offset="0.32" stop-color="#ff8a1f"/>
+      <stop offset="0.5" stop-color="#ff3b1f"/>
+      <stop offset="0.68" stop-color="#ff8a1f"/>
+      <stop offset="1" stop-color="#ffd23f"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="512" cy="690" r="250" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffe680" stop-opacity="0.85"/>
+      <stop offset="0.6" stop-color="#ffe680" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#ffe680" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+<g transform="translate(256 290) scale(0.31) translate(-512 -512)">
+  <g transform="translate(512 512) scale(1.06) translate(-512 -569)">
+
+  <!-- soft glow, the classic logo's yellow halo -->
+  <ellipse cx="512" cy="690" rx="200" ry="250" fill="url(#glow)"/>
+
+  <!-- headband -->
+  <path d="M206 600 V540 A306 306 0 0 1 818 540 V600" fill="none" stroke="url(#band)" stroke-width="72" stroke-linecap="round"/>
+
+  <!-- ear cups -->
+  <rect x="112" y="520" width="190" height="350" rx="95" fill="url(#cup)"/>
+  <rect x="722" y="520" width="190" height="350" rx="95" fill="url(#cup)"/>
+  <rect x="316" y="548" width="30" height="294" rx="15" fill="#1d3fd6"/>
+  <rect x="678" y="548" width="30" height="294" rx="15" fill="#1d3fd6"/>
+
+  <!-- waveform -->
+  <g fill="url(#wave)">
+    <rect x="365" y="630" width="24" height="120" rx="12"/>
+    <rect x="401" y="560" width="24" height="260" rx="12"/>
+    <rect x="437" y="490" width="24" height="400" rx="12"/>
+    <rect x="473" y="545" width="24" height="290" rx="12"/>
+    <rect x="509" y="450" width="24" height="480" rx="12"/>
+    <rect x="545" y="525" width="24" height="330" rx="12"/>
+    <rect x="581" y="480" width="24" height="420" rx="12"/>
+    <rect x="617" y="580" width="24" height="220" rx="12"/>
+  </g>
+  </g>
+</g>
+</svg>

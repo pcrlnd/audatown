@@ -1,0 +1,32 @@
+[Format]
+Type=PortableApps.comFormat
+Version=3.7 # Version of the PortableApps format, not of Audatown
+
+[Details]
+Name=Audatown Portable
+AppId=AudatownPortable
+Publisher=Audatown contributors
+Category=Music & Video
+Description=Audatown: A Digital Audio Editor packaged with a PortableApps.com Launcher as a portable app.
+Language=Multilingual
+
+[License]
+Shareable=true
+OpenSource=true
+Freeware=true
+CommercialUse=true
+
+[Version]
+PackageVersion=@MUSE_APP_VERSION@.1
+DisplayVersion=@MUSE_APP_VERSION@
+
+[Control]
+Icons=1
+Start=AudatownPortable.exe
+
+[Associations]
+FileTypes=aup4
+Protocols=audatown
+
+[FileTypeIcons]
+aup4=custom

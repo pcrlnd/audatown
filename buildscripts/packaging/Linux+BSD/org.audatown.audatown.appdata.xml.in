@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <developer_name>Audatown contributors</developer_name>
+  <id>org.audatown.audatown</id>
+  <launchable type="desktop-id">org.audatown.audatown.desktop</launchable>
+  <project_license>GPL-3.0-only</project_license>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>Audatown</name>
+  <summary>A free, open source audio editing and recording app</summary>
+  <description>
+    <p>Audatown is a free, open source audio editing and recording app, forked from Audacity 4.</p>
+    <p>You can use Audatown to:</p>
+    <ul>
+      <li>Record live audio</li>
+      <li>Convert tapes and records into digital recordings or CDs</li>
+      <li>Edit WAV, AIFF, FLAC, MP2, MP3 or Ogg Vorbis sound files</li>
+      <li>Cut, copy, splice or mix sounds together</li>
+      <li>Change the speed or pitch of a recording</li>
+      <li>Apply a wide range of other effects to audio recordings</li>
+      <li>and much more!</li>
+    </ul>
+  </description>
+  <categories>
+    <category>AudioVideo</category>
+    <category>Audio</category>
+  </categories>
+  <content_rating type="oars-1.1" />
+  <releases>
+    <release version="4.0.0" date="2024-09-12">
+      <description>
+        <p>First Audatown release, based on Audacity 4.</p>
+      </description>
+    </release>
+  </releases>
+</component>

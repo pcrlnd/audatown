@@ -1,0 +1,98 @@
+<svg width="800" height="380" viewBox="0 0 800 380" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_3151_3563)">
+<rect width="800" height="380" fill="#00081C"/>
+<path d="M603.652 30.2066L721.223 150.662L635.603 37.8223L603.652 30.2066Z" fill="#46013A"/>
+<path d="M616.434 35.8404L733.208 172.025L654.886 46.5256L616.434 35.8404Z" fill="#60083D"/>
+<path d="M632.488 43.1311L744.029 195.194L677.112 57.2139L632.488 43.1311Z" fill="#841243"/>
+<path d="M650.879 52.0664L752.985 220.117L701.246 69.8629L650.879 52.0664Z" fill="#991846"/>
+<path d="M670.693 62.6155L759.494 246.665L726.327 84.4205L670.693 62.6155Z" fill="#AE1D49"/>
+<path d="M691.076 74.6957L763.097 274.611L751.463 100.788L691.076 74.6957Z" fill="#B8204B"/>
+<path d="M711.256 88.1777L763.542 303.63L775.885 118.798L711.256 88.1777Z" fill="#CA244C"/>
+<path d="M338.142 308.333L451.856 452.684L381.907 303.764L338.142 308.333Z" fill="#F57349"/>
+<path d="M372.956 290.147L481.072 457.178L422.712 289.663L372.956 290.147Z" fill="#F0684C"/>
+<path d="M306.435 329.977L421.139 451.293L343.644 322.035L306.435 329.977Z" fill="#F87A47"/>
+<path d="M409.829 275.411L508.204 464.495L464.967 279.565L409.829 275.411Z" fill="#ED604F"/>
+<path d="M730.554 102.873L760.753 333.317L798.903 138.206L730.554 102.873Z" fill="#D3274E"/>
+<path d="M278.896 354.916L389.584 453.217L309.118 344.5L278.896 354.916Z" fill="#FC8445"/>
+<path d="M447.817 263.996L532.776 474.251L507.736 273.213L447.817 263.996Z" fill="#EA5A50"/>
+<path d="M486.062 255.662L554.411 485.983L550.185 270.269L486.062 255.662Z" fill="#E75253"/>
+<path d="M256.502 382.783L357.923 458.582L279.551 371.004L256.502 382.783Z" fill="#FF8B43"/>
+<path d="M748.38 118.53L754.865 363.199L819.948 158.685L748.38 118.53Z" fill="#DD294F"/>
+<path d="M523.823 250.101L572.888 499.136L591.624 270.341L523.823 250.101Z" fill="#E44B54"/>
+<path d="M764.269 134.82L746.207 392.753L838.552 179.814L764.269 134.82Z" fill="#E82C51"/>
+<path d="M560.478 246.94L588.137 513.087L631.462 272.966L560.478 246.94Z" fill="#DF4056"/>
+<path d="M595.509 245.744L600.265 527.151L669.221 277.631L595.509 245.744Z" fill="#DC3759"/>
+<path d="M777.826 151.377L735.288 421.47L854.362 201.09L777.826 151.377Z" fill="#F22F52"/>
+<path d="M628.491 246.036L609.541 540.627L704.498 283.756L628.491 246.036Z" fill="#DA325A"/>
+<path d="M788.777 167.791L722.732 448.83L867.125 221.963L788.777 167.791Z" fill="#FE3154"/>
+<path d="M659.085 247.309L616.419 552.826L736.994 290.705L659.085 247.309Z" fill="#D72D5B"/>
+<path d="M796.923 183.626L709.242 474.389L876.691 241.855L796.923 183.626Z" fill="#F32957"/>
+<path d="M687.043 249.02L621.471 563.129L766.469 297.816L687.043 249.02Z" fill="#D62A5C"/>
+<path d="M802.132 198.459L695.525 497.736L882.968 260.187L802.132 198.459Z" fill="#EA235A"/>
+<path d="M712.166 250.636L625.356 570.999L792.779 304.403L712.166 250.636Z" fill="#D4255D"/>
+<path d="M804.331 211.893L682.256 518.533L885.952 276.423L804.331 211.893Z" fill="#E51F5C"/>
+<path d="M734.344 251.628L628.78 576.009L815.833 309.799L734.344 251.628Z" fill="#D2215E"/>
+<path d="M803.492 223.61L669.998 536.499L885.654 290.103L803.492 223.61Z" fill="#DF1B5E"/>
+<path d="M753.511 251.521L632.425 577.862L835.602 313.383L753.511 251.521Z" fill="#D01A60"/>
+<path d="M799.605 233.351L659.176 551.417L882.101 300.889L799.605 233.351Z" fill="#D51360"/>
+<path d="M769.619 249.909L636.889 576.366L852.092 314.627L769.619 249.909Z" fill="#CE1762"/>
+<path d="M792.666 240.974L650.041 563.107L875.323 308.575L792.666 240.974Z" fill="#D00F62"/>
+<path d="M782.67 246.463L642.656 571.447L865.324 313.119L782.67 246.463Z" fill="#CE1762"/>
+<defs>
+    <linearGradient id="band" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3f6bff"/>
+      <stop offset="1" stop-color="#1d3fd6"/>
+    </linearGradient>
+    <linearGradient id="cup" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3561ff"/>
+      <stop offset="1" stop-color="#1834c2"/>
+    </linearGradient>
+    <linearGradient id="wave" gradientUnits="userSpaceOnUse" x1="0" y1="420" x2="0" y2="960">
+      <stop offset="0" stop-color="#ffd23f"/>
+      <stop offset="0.32" stop-color="#ff8a1f"/>
+      <stop offset="0.5" stop-color="#ff3b1f"/>
+      <stop offset="0.68" stop-color="#ff8a1f"/>
+      <stop offset="1" stop-color="#ffd23f"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="512" cy="690" r="250" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffe680" stop-opacity="0.85"/>
+      <stop offset="0.6" stop-color="#ffe680" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#ffe680" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+<g transform="translate(36 118) scale(0.0625)">
+  <g transform="translate(512 512) scale(1.06) translate(-512 -569)">
+
+  <!-- soft glow, the classic logo's yellow halo -->
+  <ellipse cx="512" cy="690" rx="200" ry="250" fill="url(#glow)"/>
+
+  <!-- headband -->
+  <path d="M206 600 V540 A306 306 0 0 1 818 540 V600" fill="none" stroke="url(#band)" stroke-width="72" stroke-linecap="round"/>
+
+  <!-- ear cups -->
+  <rect x="112" y="520" width="190" height="350" rx="95" fill="url(#cup)"/>
+  <rect x="722" y="520" width="190" height="350" rx="95" fill="url(#cup)"/>
+  <rect x="316" y="548" width="30" height="294" rx="15" fill="#1d3fd6"/>
+  <rect x="678" y="548" width="30" height="294" rx="15" fill="#1d3fd6"/>
+
+  <!-- waveform -->
+  <g fill="url(#wave)">
+    <rect x="365" y="630" width="24" height="120" rx="12"/>
+    <rect x="401" y="560" width="24" height="260" rx="12"/>
+    <rect x="437" y="490" width="24" height="400" rx="12"/>
+    <rect x="473" y="545" width="24" height="290" rx="12"/>
+    <rect x="509" y="450" width="24" height="480" rx="12"/>
+    <rect x="545" y="525" width="24" height="330" rx="12"/>
+    <rect x="581" y="480" width="24" height="420" rx="12"/>
+    <rect x="617" y="580" width="24" height="220" rx="12"/>
+  </g>
+  </g>
+</g>
+<text x="106" y="172" fill="#FFFFFF" font-family="Helvetica, Arial, sans-serif" font-weight="700" font-size="40">Audatown</text>
+</g>
+<defs>
+<clipPath id="clip0_3151_3563">
+<rect width="800" height="380" fill="white"/>
+</clipPath>
+</defs>
+</svg>
